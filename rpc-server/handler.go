@@ -4,7 +4,7 @@ import (
 	"context"
 	"math/rand"
 
-	"github.com/TikTokTechImmersion/assignment_demo_2023/rpc-server/kitex_gen/rpc"
+	"github.com/enricsng/tiktok_techimmersion_assignment_2023/rpc-server/kitex_gen/rpc"
 )
 
 // IMServiceImpl implements the last service interface defined in the IDL.

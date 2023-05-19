@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	rpc "github.com/TikTokTechImmersion/assignment_demo_2023/rpc-server/kitex_gen/rpc/imservice"
 	"github.com/cloudwego/kitex/pkg/rpcinfo"
 	"github.com/cloudwego/kitex/server"
+	rpc "github.com/enricsng/tiktok_techimmersion_assignment_2023/rpc-server/kitex_gen/rpc/imservice"
 	etcd "github.com/kitex-contrib/registry-etcd"
 )
 
